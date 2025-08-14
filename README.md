@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 **Programming skills:**  
 
-
+![](https://camo.githubusercontent.com/77d4f66253ebc1221af605ae529963005dccc28d84198ea7c17010dfc7facf9f/68747470733a2f2f7777772e72757374616365616e2e6e65742f6173736574732f72757374616365616e2d6f7269672d6e6f736861646f772e737667)
 ![](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
