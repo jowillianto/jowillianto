@@ -8,12 +8,12 @@
 Reflect CPP is a Moderna C++ Library that allows for pydantic style (i.e. serde style) serialisation in C++. By only declaring structs, one can serialize whole structs into JSON and many more other structures. 
 
 ## Hobby Projects
-### [moderna-cli](https://github.com/jowillianto/moderna-cli)
+### [jowi-cli](https://github.com/jowillianto/jowi-cli)
 Modern C++ modules based CLI Application Library. Batteries included, parses argument and attach actions to arguments made. Use only the `import` keyword without any includes. 
 ### [test-lib](https://github.com/jowillianto/test-lib)
 Modern C++ modules based testing library. Batteries included, perform asserts on `std::expected`, create new tests with macros (sadly this means includes), and add your tests to `CMakeLists.txt` with a function. 
 This includes sanitizers, etc..
-### [moderna-process](https://github.com/jowillianto/moderna-process)
+### [jowi-process](https://github.com/jowillianto/jowi-process)
 Modern C++ modules based subprocess spawning, spawn childs with system code and results returned through `std::expected`, no more worrying about any exception being thrown obnoxiously. Since, in this library,
 only `std::bad_alloc` will be obnoxiously thrown. 
 ### [cpp-module-toolchain](https://github.com/jowillianto/cpp-module-toolchain)
